@@ -1,7 +1,7 @@
 # Tasca_S5_01_N1 
 ## Spring boot API rest + Aplicació web
 
-![N|Solid](https://logistreak.com/images/icon/mysql.png =200x140)
+![N|Solid](https://logistreak.com/images/icon/mysql.png)
 
 
 En aquesta tasca faràs un CRUD (Create, Read, Update, Delete) que pugui ser cridat com a API Rest i, també, com aplicació web..
