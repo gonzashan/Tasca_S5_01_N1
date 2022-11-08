@@ -3,7 +3,6 @@
 
 ![N|Solid](https://logistreak.com/images/icon/mysql.png)
 
-![foxdemo](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
 En aquesta tasca faràs un CRUD (Create, Read, Update, Delete) que pugui ser cridat com a API Rest i, també, com aplicació web..
 
 
@@ -62,13 +61,13 @@ Per tal de fer-la més atractiva, pots usar opcionalment alguna llibreria CSS qu
 # Resultats
        http://localhost:9000/sucursal/add}
  <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/add.png" height="490" width="650" >
-          http://localhost:9000/sucursal/getOne/{id}
+       http://localhost:9000/sucursal/getOne/{id}
  <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/getOne-id.png" height="490" width="650" >
-          http://localhost:9000/sucursal/getAll
+       http://localhost:9000/sucursal/getAll
  <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/getAll.png" height="490" width="650" >
-          http://localhost:9000/sucursal/update
+       http://localhost:9000/sucursal/update
  <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/update.png" height="490" width="650" >
+       http://localhost:9000/sucursal/updaterecord
  <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/update-list.png" height="490" width="650" >
-
-          http://localhost:9000/sucursal/delete/{id}
+       http://localhost:9000/sucursal/delete/{id}
     <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/delete.png" height="490" width="650" >
