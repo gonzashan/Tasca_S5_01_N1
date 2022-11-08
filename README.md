@@ -41,7 +41,7 @@ Per a això, depenent del package principal, crearàs una estructura de packages
 -  cat.itacademy.barcelonactiva.cognoms.nom.s05.t01.n01.model.services
 -  cat.itacademy.barcelonactiva.cognoms.nom.s05.t01.n01.model.repository
 
-![](https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/S05T01N01_Tree.png)
+![](https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/S05T01N01_Tree.png = 200x130)
 
 La classe ubicada al paquet controllers (SucursalController, per exemple), haurà de ser capaç de donar resposta a les següents peticions per actualitzar i consultar informació:
 
