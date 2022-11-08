@@ -1,5 +1,5 @@
 # Tasca_S5_01_N1 
-## Spring boot API rest + Aplicació web
+## Exercici aplicació Web CRUD amb MySQL
 
 ![N|Solid](https://logistreak.com/images/icon/mysql.png)
 
