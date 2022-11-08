@@ -70,4 +70,4 @@ Per tal de fer-la més atractiva, pots usar opcionalment alguna llibreria CSS qu
        http://localhost:9000/sucursal/updaterecord
  <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/update-list.png" height="490" width="650" >
        http://localhost:9000/sucursal/delete/{id}
-    <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/delete.png" height="490" width="650" >
+    <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/delete.png" height="491" width="650" >
