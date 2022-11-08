@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head th:fragment="head">
+    <meta charset="UTF-8">
+    <title>Sucursales Services</title>
+    <link rel="stylesheet" th:href="@{/css/bootstrap.min.css}">
+</head>
+<body>
+<!--Main Navigation-->
+<header>
+    <style>
+        #intro {
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBHktQybPPyNnM8vKcsFixyYGO_qSCFMwW5Q&usqp=CAU");
+
+            height: 100vh;
+        }
+    </style>
+
+    <div id="intro" class="bg-image shadow-2-strong">
+        <div class="mask" style="background-color: rgba(0, 0, 0, 0.8);height: inherit;">
+            <div id="message" class="fade container d-flex align-items-center justify-content-center text-left h-100">
+                <div class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content text-white">
+                    <h1 class="mb-3">Action: getOne/{id=<span th:text="${sucursal.pk_SucursalID}"></span>}</h1>
+                    <h5 class="mb-4"></h5>
+                    <div class="bd-example">
+                        <table class="table table-sm table-light">
+                            <thead>
+                            <tr style="color: #080642b0;">
+                                <th class="h6" scope="col">#</th>
+                                <th class="h6" scope="col">Name</th>
+                                <th class="h6" scope="col">Country</th>
+                                <th class="h6" scope="col">Zone</th>
+                            </tr>
+                            </thead>
+
+                            <tbody>
+                            <tr>
+                                <th class="h6" scope="row" th:text="${sucursal.pk_SucursalID}"></th>
+                                <td class="h6" th:text="${sucursal.nomSucursal}"></td>
+                                <td class="h6" th:text="${sucursal.paisSucursal}"></td>
+                                <td class="h6" th:text="${sucursal.tipusSucursal}"></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+</body>
+<script>
+    document.getElementById('message').classList.toggle('fade');
+</script>
+</html>
+
