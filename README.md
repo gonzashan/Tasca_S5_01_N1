@@ -6,6 +6,7 @@
 
 En aquesta tasca faràs un CRUD (Create, Read, Update, Delete) que pugui ser cridat com a API Rest i, també, com aplicació web..
 
+[![name](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png =400x250)](https://thecodebuzz.com/how-to-add-image-to-excel-files-using-npoi/)
 
 ## Objetius
 - Protocol HTTP / REST.
