@@ -60,5 +60,5 @@ La vista haurà d’estar desenvolupada amb Thymeleaf.
 Per tal de fer-la més atractiva, pots usar opcionalment alguna llibreria CSS que t’ho faciliti, com bootstrap, tailwind, material, etc.
 
 # Resultats
-![](https://logistreak.com/images/icon/mysql.png) 
-![My Remote Image](https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0)
+       http://localhost:9000/sucursal/delete/{id}
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/delete.png" height="60" width="60" >
