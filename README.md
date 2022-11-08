@@ -1,12 +1,11 @@
 # Tasca_S5_01_N1 
 ## Spring boot API rest + Aplicació web
 
-![N|Solid](https://logistreak.com/images/icon/mysql.png)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![N|Solid](https://logistreak.com/images/icon/mysql.png =200x140)
+
 
 En aquesta tasca faràs un CRUD (Create, Read, Update, Delete) que pugui ser cridat com a API Rest i, també, com aplicació web..
 
-[![name](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png =400x250)](https://thecodebuzz.com/how-to-add-image-to-excel-files-using-npoi/)
 
 ## Objetius
 - Protocol HTTP / REST.
