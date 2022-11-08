@@ -6,7 +6,7 @@
 ![foxdemo](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
 En aquesta tasca faràs un CRUD (Create, Read, Update, Delete) que pugui ser cridat com a API Rest i, també, com aplicació web..
 
-<br><a href="docs/img/areg-services.png"><img src="docs/img/areg-services.png" alt="AREG SDK distributed services" style="width:70%;height:70%"/></a><br>
+<br><a href="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/S05T01N01_Tree.png"><img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/S05T01N01_Tree.png" alt="AREG SDK distributed services" style="width:70%;height:70%"/></a><br>
 
 ## Objetius
 - Protocol HTTP / REST.
