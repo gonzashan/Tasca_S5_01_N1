@@ -3,7 +3,7 @@
 
 ![N|Solid](https://logistreak.com/images/icon/mysql.png)
 
-
+![foxdemo](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
 En aquesta tasca faràs un CRUD (Create, Read, Update, Delete) que pugui ser cridat com a API Rest i, també, com aplicació web..
 
 
