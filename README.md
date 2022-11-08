@@ -60,5 +60,15 @@ La vista haurà d’estar desenvolupada amb Thymeleaf.
 Per tal de fer-la més atractiva, pots usar opcionalment alguna llibreria CSS que t’ho faciliti, com bootstrap, tailwind, material, etc.
 
 # Resultats
-       http://localhost:9000/sucursal/delete/{id}
- <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/delete.png" height="650" width="650" >
+       http://localhost:9000/sucursal/add}
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/add.png" height="650" width="490" >
+          http://localhost:9000/sucursal/getOne/{id}
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/getOne-id.png" height="650" width="490" >
+          http://localhost:9000/sucursal/getAll
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/getAll.png" height="650" width="490" >
+          http://localhost:9000/sucursal/update
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/update.png" height="650" width="490" >
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/update-list.png" height="650" width="490" >
+
+          http://localhost:9000/sucursal/delete/{id}
+    <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/delete.png" height="650" width="490" >
