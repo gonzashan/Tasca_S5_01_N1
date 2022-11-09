@@ -1,4 +1,4 @@
-package cat.itacademy.barcelonactiva.sanmiguelalonso.gonzalo.s05.t01.n01.model.services.controllers;
+package cat.itacademy.barcelonactiva.sanmiguelalonso.gonzalo.s05.t01.n01.model.controllers;
 
 
 import cat.itacademy.barcelonactiva.sanmiguelalonso.gonzalo.s05.t01.n01.model.domain.CountriesModel;
@@ -106,10 +106,11 @@ public class SucursalController {
         Optional<SucursalModel> sucursal = sucursalRepository.findById(id);
 
         try {
-            model.addAttribute("sucursal",
-                    sucursalService.convertToSucursalDTO(sucursal.get()));
-            return "getOne";
-
+            if(sucursal.isPresent()) {
+                model.addAttribute("sucursal",
+                        sucursalService.convertToSucursalDTO(sucursal.get()));
+                return "getOne";
+            }
         } catch (NoSuchElementException e){
             model.addAttribute("errorDescription", e);
             System.out.println("Element not found!");

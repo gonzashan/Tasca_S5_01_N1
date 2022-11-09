@@ -1,4 +1,4 @@
-package cat.itacademy.barcelonactiva.sanmiguelalonso.gonzalo.s05.t01.n01.model.services.controllers;
+package cat.itacademy.barcelonactiva.sanmiguelalonso.gonzalo.s05.t01.n01.model.controllers;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;
